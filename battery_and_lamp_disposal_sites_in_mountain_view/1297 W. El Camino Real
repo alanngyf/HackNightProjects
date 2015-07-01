@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<kml>
+ <Document>
+  <Placemark>
+   <description>1297 W. El Camino Real</description>
+   <Point>
+    <coordinates>37.3759962,-122.0601066</coordinates>
+   </Point>
+  </Placemark>
+ </Document>
+</kml>

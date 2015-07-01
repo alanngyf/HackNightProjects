@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<kml>
+ <Document>
+  <Placemark>
+   <description>2555 Charleston Road</description>
+   <Point>
+    <coordinates>37.4210681,-122.0994957</coordinates>
+   </Point>
+  </Placemark>
+ </Document>
+</kml>

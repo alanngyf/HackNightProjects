@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<kml>
+ <Document>
+  <Placemark>
+   <description>134 San Antonio Circle</description>
+   <Point>
+    <coordinates>37.4076531,-122.1097241</coordinates>
+   </Point>
+  </Placemark>
+ </Document>
+</kml>
